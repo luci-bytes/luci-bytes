@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello, and nice to meet you :)
+
+I’m Luci, and this GitHub account has recently been repurposed for OSS adventures.
+
+More to follow…
+
+
 
 <!--
 **luci-bytes/luci-bytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
